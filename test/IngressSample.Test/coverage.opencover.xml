@@ -2,16 +2,16 @@
 <CoverageSession>
   <Summary numSequencePoints="86" visitedSequencePoints="3" numBranchPoints="86" visitedBranchPoints="3" sequenceCoverage="0.035" branchCoverage="0.035" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" visitedClasses="1" numClasses="18" visitedMethods="1" numMethods="26" />
   <Modules>
-    <Module hash="A9BBE71A-2BA8-44EE-8DB1-8C3BC13066EF">
-      <ModulePath>C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\test\IngressSample.Test\bin\Debug\netcoreapp2.1\IngressSample.dll</ModulePath>
-      <ModuleTime>2018-10-04T03:17:22</ModuleTime>
+    <Module hash="9E4816C4-44E7-43DF-82FF-280399A2AB37">
+      <ModulePath>C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\test\IngressSample.Test\bin\Debug\netcoreapp2.1\IngressSample.dll</ModulePath>
+      <ModuleTime>2018-10-05T03:48:53</ModuleTime>
       <ModuleName>IngressSample</ModuleName>
       <Files>
-        <File uid="1" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\src\IngressSample\Program.cs" />
-        <File uid="2" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\src\IngressSample\Startup.cs" />
-        <File uid="3" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\src\IngressSample\Models\ErrorViewModel.cs" />
-        <File uid="4" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\src\IngressSample\Controllers\HomeController.cs" />
-        <File uid="5" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\src\IngressSample\Controllers\Summary.cs" />
+        <File uid="1" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\src\IngressSample\Program.cs" />
+        <File uid="2" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\src\IngressSample\Startup.cs" />
+        <File uid="3" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\src\IngressSample\Models\ErrorViewModel.cs" />
+        <File uid="4" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\src\IngressSample\Controllers\HomeController.cs" />
+        <File uid="5" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\src\IngressSample\Controllers\Summary.cs" />
       </Files>
       <Classes>
         <Class>
@@ -262,19 +262,19 @@
         </Class>
       </Classes>
     </Module>
-    <Module hash="EAA80A6C-00D7-4DE3-A5AB-691C395F2AFA">
-      <ModulePath>C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\test\IngressSample.Test\bin\Debug\netcoreapp2.1\IngressSample.Views.dll</ModulePath>
-      <ModuleTime>2018-10-04T03:17:22</ModuleTime>
+    <Module hash="AE0CE29F-0B8B-4549-B10B-DD69E0C49578">
+      <ModulePath>C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\test\IngressSample.Test\bin\Debug\netcoreapp2.1\IngressSample.Views.dll</ModulePath>
+      <ModuleTime>2018-10-05T03:48:53</ModuleTime>
       <ModuleName>IngressSample.Views</ModuleName>
       <Files>
-        <File uid="6" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\src\IngressSample\Views\Home\About.cshtml" />
-        <File uid="7" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\src\IngressSample\Views\Home\Contact.cshtml" />
-        <File uid="8" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\src\IngressSample\Views\Home\Index.cshtml" />
-        <File uid="9" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\src\IngressSample\Views\Home\Privacy.cshtml" />
-        <File uid="10" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\src\IngressSample\Views\Shared\Error.cshtml" />
-        <File uid="11" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\src\IngressSample\Views\Shared\_CookieConsentPartial.cshtml" />
-        <File uid="12" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\src\IngressSample\Views\Shared\_Layout.cshtml" />
-        <File uid="13" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\IngressSample\src\IngressSample\Views\_ViewStart.cshtml" />
+        <File uid="6" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\src\IngressSample\Views\Home\About.cshtml" />
+        <File uid="7" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\src\IngressSample\Views\Home\Contact.cshtml" />
+        <File uid="8" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\src\IngressSample\Views\Home\Index.cshtml" />
+        <File uid="9" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\src\IngressSample\Views\Home\Privacy.cshtml" />
+        <File uid="10" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\src\IngressSample\Views\Shared\Error.cshtml" />
+        <File uid="11" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\src\IngressSample\Views\Shared\_CookieConsentPartial.cshtml" />
+        <File uid="12" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\src\IngressSample\Views\Shared\_Layout.cshtml" />
+        <File uid="13" fullPath="C:\Users\Hieu\Desktop\Persol_dotnet\WebApp\src\IngressSample\Views\_ViewStart.cshtml" />
       </Files>
       <Classes>
         <Class>
